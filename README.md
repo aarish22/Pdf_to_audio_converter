@@ -29,7 +29,7 @@ This project is a Python-based application that converts the text content of PDF
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/pdf-to-audio-converter.git
+    git clone https://github.com/aarish22/Pdf_to_audio_converter.git
     cd pdf-to-audio-converter
     ```
 
